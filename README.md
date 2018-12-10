@@ -1,5 +1,7 @@
 ## Gatsby Blog Tailwindcss with NetlifyCMS
 
+Demo: https://zen-lamarr-6b62d0.netlify.com/
+
 I should use https://github.com/ChristopherBiscardi/gatsby-mdx for personalize markdown.
 
 NetlifyCMS:
