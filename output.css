@@ -815,6 +815,10 @@ button,
   letter-spacing: -0.05em;
 }
 
+.w-1 {
+  width: .25rem;
+}
+
 .w-3 {
   width: .75rem;
 }
