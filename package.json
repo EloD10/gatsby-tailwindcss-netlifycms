@@ -40,7 +40,7 @@
     "format": "prettier --write \"src/**/*.{js,jsx,json}\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:css": "postcss build styles.css --config tailwind.js --output output.css",
-    "deploy": "yarn build --prefix-paths && gh-pages -d public -b master"
+    "deploy": "yarn build --prefix-paths && gh-pages -d public -b production"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.1.0",
